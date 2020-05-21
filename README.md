@@ -4,9 +4,6 @@
 # Back End Api Test
 Servicio correspondiente al backend
 
-## Variables de entorno
-	export PORT=8080
-
 ## Compilar y generar el ensamblado
     Gradle : ./gradlew build
     Test   : java -jar build/libs/test-desarrollo-0.0.1-SNAPSHOT.jar
